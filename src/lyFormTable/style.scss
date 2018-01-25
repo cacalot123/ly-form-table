@@ -1,0 +1,12 @@
+//space
+$module-space-base: 16px;
+$module-space-lg: $module-space-base*1.5;
+$module-space-sm: $module-space-base/2;
+
+.rsTable .ant-pagination {
+  float: left;
+}
+
+.rsTable .ant-btn {
+  margin-top: $module-space-sm;
+}
